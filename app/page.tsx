@@ -6,7 +6,7 @@ import { Suspense } from 'react';
 export const runtime = 'edge';
 
 export const metadata = {
-  description: 'High-performance ecommerce store built with Next.js, Vercel, and Shopify.',
+  description: 'Okay XL - Season 1: Fake Anime Shows Your Friends Have Never Heard Of',
   openGraph: {
     type: 'website'
   }
